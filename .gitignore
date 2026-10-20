@@ -1,0 +1,16 @@
+# Go binaries and build cache
+/bin/
+/*.exe
+
+# Test cache and coverage
+*.test
+*.out
+coverage.html
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
